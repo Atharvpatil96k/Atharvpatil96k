@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hey 👋 I'm Atharv Patil
 
-<!--
-**Atharvpatil96k/Atharvpatil96k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student at NMIMS Shirpur  
+💼 Future Interns Intern  
+💻 Passionate about coding, development & building projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- C
+- C++
+- Python
+- Java
+- Arduino
+- Web Development
+- DSA
+
+---
+
+## 📌 Current Focus
+
+- Building real-world projects
+- Improving DSA skills
+- Learning modern development
+- Growing as a developer
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/atharv-patil-196750284
+- GitHub: https://github.com/Atharvpatil96k
+
+---
+
+⭐ Exploring technology and building projects daily.
